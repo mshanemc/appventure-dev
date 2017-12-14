@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Prize__c",
+                "referenceId": "Prize__cRef1"
+            },
+            "Contest__c": "@Contest__cRef1",
+            "Name": "Trip to Paris (Texas)",
+            "Quantity__c": 1,
+            "Value__c": 900
+        },
+        {
+            "attributes": {
+                "type": "Prize__c",
+                "referenceId": "Prize__cRef2"
+            },
+            "Contest__c": "@Contest__cRef1",
+            "Name": "Rubber Chickens",
+            "Quantity__c": 3,
+            "Value__c": 15
+        }
+    ]
+}

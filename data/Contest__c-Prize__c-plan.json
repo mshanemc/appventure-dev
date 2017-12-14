@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Contest__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Contest__cs.json"
+        ]
+    },
+    {
+        "sobject": "Prize__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Prize__cs.json"
+        ]
+    }
+]
