@@ -3,7 +3,7 @@
     "description" : "AppVenture Dev",
     "edition": "Developer",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "NetworksEnabled", "ForceComPlatform", "CustomerSelfService"]
+        "enabled": ["S1DesktopEnabled", "NetworksEnabled"]
     },
     "features": [
         "Communities"
